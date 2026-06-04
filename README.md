@@ -1,4 +1,4 @@
-# 💫 ¡Hola! Soy Helenna 👋
+# ¡Hola! Soy Helenna
 
 ### Desarrolladora Frontend | Diseñadora UI/UX 
 
@@ -15,13 +15,6 @@ Me apasiona la intersección entre el código y la experiencia del usuario, por 
 Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, ¡búscame! Siempre estoy abierto a compartir ideas.
 
 **Dato curioso:** Me apasiona la creación de contenido digital y el diseño visual tanto como escribir código limpio.
-
-<p align="center">
-  <br>
-  <a href="https://github.com/HelennaMendez021/ferreteria_sistema_ia">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HelennaMendez021&repo=ferreteria_sistema_ia&theme=dracula" alt="Proyecto Destacado" width="50%" />
-  </a>
-</p>
 
 ---
 
