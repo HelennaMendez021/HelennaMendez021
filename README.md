@@ -1,4 +1,4 @@
-# ─── Hola, soy Helenna ───
+<h1 align="center">─── Hola, soy Helenna ───</h1>
 
 <p align="center">
   <img src="https://assets.materialup.com/uploads/622ca8af-d102-4660-93fb-981a8bdf4f1b/preview.gif" width="320px" alt="Feminine Tech Illustration" />
@@ -76,8 +76,4 @@ Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=HelennaMendez021&theme=rose&hide_border=true" height="165em" alt="GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HelennaMendez021&theme=rose&hide_border=true&layout=compact" height="165em" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HelennaMendez021&theme=rose&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
