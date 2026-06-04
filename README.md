@@ -18,10 +18,8 @@
       <p>Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, ¡búscame! Siempre estoy abierta a compartir ideas.</p>
       <p><strong>Dato curioso:</strong> Me apasiona la creación de contenido digital y el diseño visual tanto como escribir código limpio.</p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Ilustración animada sutil para complementar el diseño -->
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f4bb.png" width="40" alt="Laptop icon"><br><br>
-      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b0d07259e04855d/1601391173660-MGOI6YF6S1HCHXN8A8A1/coding.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://assets.materialup.com/uploads/b70c3272-88f6-4444-a02b-871d377b3b9b/preview.gif" width="90%" style="border-radius: 8px;" alt="UI/UX Animation" />
     </td>
   </tr>
 </table>
