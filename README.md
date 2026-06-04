@@ -1,27 +1,27 @@
 # 💫 ¡Hola! Soy Helenna 👋
 
-### Desarrolladora Frontend | Diseñadora UI/UX | Creadora de Contenido Digital
+### Desarrolladora Frontend | Diseñadora UI/UX 
 
 ---
 
-<!-- Sección Sobre Mí con prioridad de texto y animación compacta -->
-<table border="0">
-  <tr>
-    <td width="70%" valign="top">
-      <h3>🚀 Sobre mí</h3>
-      <p>Desarrolladora y diseñadora enfocada en crear experiencias digitales intuitivas y eficientes.</p>
-      <p>Actualmente, estoy concentrada en el desarrollo de aplicaciones móviles con seguimiento GPS en tiempo real enfocadas en la seguridad. En este ecosistema, siempre busco aprender y aplicar las mejores prácticas de arquitectura móvil y optimización de código para que las aplicaciones no solo se vean bien, sino que sean sólidas y eficientes.</p>
-      <p>Me apasiona la intersección entre el código y la experiencia del usuario, por lo que constantemente estoy aprendiendo nuevas técnicas de UI/UX y desarrollo frontend. Creo firmemente que un gran producto nace desde su concepción visual; por eso, me encanta colaborar en iniciativas que necesiten apoyo tanto en el prototipado y diseño de interfaces como en el desarrollo frontend.</p>
-      <p>Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, ¡búscame! Siempre estoy abierto a compartir ideas.</p>
-      <p><strong>Dato curioso:</strong> Me apasiona la creación de contenido digital y el diseño visual tanto como escribir código limpio.</p>
-    </td>
-    <td width="30%" align="center" valign="middle">
+### 🚀 Sobre mí
+
+Desarrolladora y diseñadora enfocada en crear experiencias digitales intuitivas y eficientes.
+
+Actualmente, estoy concentrada en el desarrollo de aplicaciones móviles con seguimiento GPS en tiempo real enfocadas en la seguridad. En este ecosistema, siempre busco aprender y aplicar las mejores prácticas de arquitectura móvil y optimización de código para que las aplicaciones no solo se vean bien, sino que sean sólidas y eficientes.
+
+Me apasiona la intersección entre el código y la experiencia del usuario, por lo que constantemente estoy aprendiendo nuevas técnicas de UI/UX y desarrollo frontend. Creo firmemente que un gran producto nace desde su concepción visual; por eso, me encanta colaborar en iniciativas que necesiten apoyo tanto en el prototipado y diseño de interfaces como en el desarrollo frontend.
+
+Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, ¡búscame! Siempre estoy abierto a compartir ideas.
+
+**Dato curioso:** Me apasiona la creación de contenido digital y el diseño visual tanto como escribir código limpio.
+
+<p align="center">
+  <br>
   <a href="https://github.com/HelennaMendez021/ferreteria_sistema_ia">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HelennaMendez021&repo=ferreteria_sistema_ia&theme=dracula" alt="Proyecto Destacado" width="100%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HelennaMendez021&repo=ferreteria_sistema_ia&theme=dracula" alt="Proyecto Destacado" width="50%" />
   </a>
-  </td>
-  </tr>
-</table>
+</p>
 
 ---
 
