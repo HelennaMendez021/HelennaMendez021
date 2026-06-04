@@ -1,25 +1,23 @@
 # 💫 ¡Hola! Soy Helenna 👋
 
-<!-- Banner con animación de escritura dinámica -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Desarrolladora+Frontend;Diseñadora+UI%2FUX;Creadora+de+Contenido+Digital" alt="Typing Effect" />
-</p>
+### Desarrolladora Frontend | Diseñadora UI/UX | Creadora de Contenido Digital
 
-<br>
+---
 
-<!-- Sección Sobre Mí en estructura de dos columnas (Texto + Animación) -->
+<!-- Sección Sobre Mí con prioridad de texto y animación compacta -->
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="70%" valign="top">
       <h3>🚀 Sobre mí</h3>
       <p>Desarrolladora y diseñadora enfocada en crear experiencias digitales intuitivas y eficientes.</p>
       <p>Actualmente, estoy concentrada en el desarrollo de aplicaciones móviles con seguimiento GPS en tiempo real enfocadas en la seguridad. En este ecosistema, siempre busco aprender y aplicar las mejores prácticas de arquitectura móvil y optimización de código para que las aplicaciones no solo se vean bien, sino que sean sólidas y eficientes.</p>
       <p>Me apasiona la intersección entre el código y la experiencia del usuario, por lo que constantemente estoy aprendiendo nuevas técnicas de UI/UX y desarrollo frontend. Creo firmemente que un gran producto nace desde su concepción visual; por eso, me encanta colaborar en iniciativas que necesiten apoyo tanto en el prototipado y diseño de interfaces como en el desarrollo frontend.</p>
-      <p>Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, ¡búscame! Siempre estoy abierta a compartir ideas.</p>
+      <p>Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, ¡búscame! Siempre estoy abierto a compartir ideas.</p>
       <p><strong>Dato curioso:</strong> Me apasiona la creación de contenido digital y el diseño visual tanto como escribir código limpio.</p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://assets.materialup.com/uploads/b70c3272-88f6-4444-a02b-871d377b3b9b/preview.gif" width="90%" style="border-radius: 8px;" alt="UI/UX Animation" />
+    <td width="30%" align="center" valign="middle">
+      <!-- Animación Lottie optimizada y transparente -->
+      <img src="https://assets.materialup.com/uploads/b70c3272-88f6-4444-a02b-871d377b3b9b/preview.gif" width="100%" style="border-radius: 8px;" alt="UI/UX Animation" />
     </td>
   </tr>
 </table>
@@ -109,5 +107,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=HelennaMendez021&theme=dracula&hide_border=false" width="100%" alt="GitHub Streak" />
 </p>
-
-<!-- Creado con un toque personalizado de UI/UX -->
