@@ -16,9 +16,10 @@
       <p><strong>Dato curioso:</strong> Me apasiona la creación de contenido digital y el diseño visual tanto como escribir código limpio.</p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <!-- Animación Lottie optimizada y transparente -->
-      <img src="https://assets.materialup.com/uploads/b70c3272-88f6-4444-a02b-871d377b3b9b/preview.gif" width="100%" style="border-radius: 8px;" alt="UI/UX Animation" />
-    </td>
+  <a href="https://github.com/HelennaMendez021/HAPPYDOG">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HelennaMendez021&repo=HAPPYDOG&theme=dracula" alt="Proyecto Destacado" width="100%" />
+  </a>
+  </td>
   </tr>
 </table>
 
@@ -94,16 +95,3 @@
     </td>
   </tr>
 </table>
-
----
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=HelennaMendez021&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HelennaMendez021&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HelennaMendez021&theme=dracula&hide_border=false" width="100%" alt="GitHub Streak" />
-</p>
