@@ -1,39 +1,57 @@
-# ¡Hola! Soy Helenna
+# ───  Hola, soy Helenna ───
 
-### Desarrolladora Frontend | Diseñadora UI/UX 
+<p align="center">
+  <img src="https://assets.materialup.com/uploads/622ca8af-d102-4660-93fb-981a8bdf4f1b/preview.gif" width="320px" alt="Feminine Tech Illustration" />
+</p>
 
----
+<p align="center">
+  <strong>Desarrolladora Frontend & Diseñadora UI/UX</strong><br>
+  <sub>Transformando ideas en experiencias digitales hermosas, intuitivas y eficientes.</sub>
+</p>
 
-### 🚀 Sobre mí
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" height="3px" alt="Line Separator" />
+</p>
 
-Desarrolladora y diseñadora enfocada en crear experiencias digitales intuitivas y eficientes.
+### 🌸 Sobre mí
 
 Actualmente, estoy concentrada en el desarrollo de aplicaciones móviles con seguimiento GPS en tiempo real enfocadas en la seguridad. En este ecosistema, siempre busco aprender y aplicar las mejores prácticas de arquitectura móvil y optimización de código para que las aplicaciones no solo se vean bien, sino que sean sólidas y eficientes.
 
 Me apasiona la intersección entre el código y la experiencia del usuario, por lo que constantemente estoy aprendiendo nuevas técnicas de UI/UX y desarrollo frontend. Creo firmemente que un gran producto nace desde su concepción visual; por eso, me encanta colaborar en iniciativas que necesiten apoyo tanto en el prototipado y diseño de interfaces como en el desarrollo frontend.
 
-Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, ¡búscame! Siempre estoy abierto a compartir ideas.
+Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, ¡búscame! Siempre estoy abierta a compartir ideas.
 
-**Dato curioso:** Me apasiona la creación de contenido digital y el diseño visual tanto como escribir código limpio.
+> ✨ **Dato curioso:** Me apasiona la creación de contenido digital y el diseño visual tanto como escribir código limpio.
 
----
+<br>
 
-## 🌐 Socials:
-<p align="left">
-  <a href="https://linkedin.com/in/helenna-frine-m%C3%A9ndez-d%C3%ADaz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<!-- Proyecto Destacado: Centrado, estético y estilizado -->
+<h4 align="center">💫 Proyecto Destacado 💫</h4>
+<p align="center">
+  <a href="https://github.com/HelennaMendez021/ferreteria_sistema_ia">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HelennaMendez021&repo=ferreteria_sistema_ia&theme=rose" alt="Proyecto Destacado" width="50%" />
   </a>
 </p>
 
 ---
 
-# 💻 Tech Stack (Organizado por categorías):
+## 🌐 Conectemos
+
+<p align="left">
+  <a href="https://linkedin.com/in/helenna-frine-m%C3%A9ndez-d%C3%ADaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23E0A4B3.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 💻 Mi Stack Tecnológico
 
 <table>
   <tr>
     <td>
       <details open>
-        <summary><strong>📱 Mobile & Frontend</strong></summary>
+        <summary>🌸 <strong>Mobile & Frontend</strong></summary>
         <br>
         <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -50,7 +68,18 @@ Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, 
   <tr>
     <td>
       <details>
-        <summary><strong>⚙️ Backend & Lenguajes</strong></summary>
+        <summary>✨ <strong>Diseño & Herramientas Creativas</strong></summary>
+        <br>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <details>
+        <summary>⚙️ <strong>Backend & Lenguajes</strong></summary>
         <br>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
         <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
@@ -64,18 +93,7 @@ Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, 
   <tr>
     <td>
       <details>
-        <summary><strong>🎨 Diseño & Herramientas Creativas</strong></summary>
-        <br>
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <details>
-        <summary><strong>🗄️ Bases de Datos & Otros</strong></summary>
+        <summary>🗄️ <strong>Bases de Datos & Otros</strong></summary>
         <br>
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -88,3 +106,16 @@ Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, 
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=HelennaMendez021&theme=rose&hide_border=true" height="165em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HelennaMendez021&theme=rose&hide_border=true&layout=compact" height="165em" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HelennaMendez021&theme=rose&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
