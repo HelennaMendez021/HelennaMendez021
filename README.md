@@ -16,8 +16,8 @@
       <p><strong>Dato curioso:</strong> Me apasiona la creación de contenido digital y el diseño visual tanto como escribir código limpio.</p>
     </td>
     <td width="30%" align="center" valign="middle">
-  <a href="https://github.com/HelennaMendez021/HAPPYDOG">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HelennaMendez021&repo=HAPPYDOG&theme=dracula" alt="Proyecto Destacado" width="100%" />
+  <a href="https://github.com/HelennaMendez021/ferreteria_sistema_ia">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HelennaMendez021&repo=ferreteria_sistema_ia&theme=dracula" alt="Proyecto Destacado" width="100%" />
   </a>
   </td>
   </tr>
