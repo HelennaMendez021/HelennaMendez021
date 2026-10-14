@@ -15,13 +15,11 @@
 
 ### Sobre mí
 
-Actualmente, estoy concentrada en el desarrollo de aplicaciones móviles con seguimiento GPS en tiempo real y completo enfoque en la seguridad de los datos. En este ecosistema, siempre busco aprender y aplicar las mejores prácticas de arquitectura móvil y optimización de código para que las aplicaciones no solo se vean bien, sino que sean sólidas y eficientes.
+Actualmente, me encuentro liderando la estrategia de diseño UI/UX y la arquitectura de experiencia de usuario para una plataforma móvil orientada a la seguridad de mascotas, integrando seguimiento GPS en tiempo real y validación mediante reconocimiento visual. Mi enfoque principal está en transformar dinámicas complejas e interacciones en tiempo real en interfaces intuitivas, seguras y accesibles.
 
-Me apasiona la intersección entre el código y la experiencia del usuario, por lo que constantemente estoy aprendiendo nuevas técnicas de UI/UX y desarrollo frontend. Creo firmemente que un gran producto nace desde su concepción visual; por eso, me encanta colaborar en iniciativas que necesiten apoyo tanto en el prototipado y diseño de interfaces como en el desarrollo frontend.
+Me apasiona la intersección entre la visión estratégica del producto y el diseño centrado en el usuario. Creo firmemente que un gran desarrollo nace desde una concepción visual sólida; por ello, me especializo en llevar proyectos desde la fase de investigación, arquitectura de información y prototipado de alta fidelidad, hasta la definición de sistemas de diseño listos para su implementación.
 
-Si quieres platicar sobre diseño de interfaces en Figma o desarrollo frontend, ¡búscame! Siempre estoy abierta a compartir ideas.
-
-> **Dato curioso:** Me apasiona la creación de contenido digital y el diseño visual tanto como escribir código limpio.
+Si quieres platicar sobre investigación de usuarios, arquitectura de experiencia o diseño de interfaces en Figma, ¡búscame! Siempre estoy abierta a colaborar y compartir ideas.
 
 <br>
 
